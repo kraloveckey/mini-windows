@@ -2,8 +2,6 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyber_notes)
-
 ## ADInventory
 
 [`ADInventory.ps1`](./ADInventory/ADInventory.ps1) - script to inventory computers in Active Directory. After launching it polls the specified computers in [**OU.txt**](./ADInventory/OU.txt) and sends to mail an archive with files for each OU from [**OU.txt**](./ADInventory/OU.txt) (**OU-Computers.csv** and **OU-Software.csv** - specifying the name of the OU).
