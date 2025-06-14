@@ -1,7 +1,5 @@
 # Mini-Projects for Windows OS
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
-
 ## ADInventory
 
 [`ADInventory.ps1`](./ADInventory/ADInventory.ps1) - script to inventory computers in Active Directory. After launching it polls the specified computers in [**OU.txt**](./ADInventory/OU.txt) and sends to mail an archive with files for each OU from [**OU.txt**](./ADInventory/OU.txt) (**OU-Computers.csv** and **OU-Software.csv** - specifying the name of the OU).
@@ -51,3 +49,9 @@
 [`info.bat`](info.bat) - script for get full information from Windows device and record its to **pcinfo.txt** file.
 
 [`Wallpapers.deskthemepack`](Wallpapers.deskthemepack) - `Surreal Territory` themepack of photographic illustration wallpapers.
+
+---
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92">
+  <img src="https://raw.githubusercontent.com/kraloveckey/kraloveckey/refs/heads/main/.assets/paypal-donate-button.png" alt="Donate with PayPal" width="225" height="100"/>
+</a>
